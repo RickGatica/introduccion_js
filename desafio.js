@@ -9,10 +9,12 @@
 - Tu pasatiempos favoritos (Array)
 - Declara una funcion miActividadFavorita la cual retorne un string con la accion que mas te guste realizar */
 
-let name = "Rick";
-let lastName = "Gatica";
-let age = 29;
-let webDeveloper = true;
+
+let me = new Object();
+me.name = "Rick";
+me.lastName = "Gatica";
+me.age = 29;
+me.webDeveloper = true;
 
 let birthday = new Object();
 birthday.month = "November";
