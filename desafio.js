@@ -11,21 +11,21 @@
 
 
 let me = new Object();
-me.name = "Rick";
-me.lastName = "Gatica";
-me.age = 29;
-me.webDeveloper = true;
+  me.name = "Rick";
+  me.lastName = "Gatica";
+  me.age = 29;
+  me.webDeveloper = true;
 
 let birthday = new Object();
-birthday.month = "November";
-birthday.day = 12;
-birthday.year = 1992;
+  birthday.month = "November";
+  birthday.day = 12;
+  birthday.year = 1992;
 
 let myFavoriteBook = new Object();
-myFavoriteBook.tittle = "1984";
-myFavoriteBook.author = "George Orwell";
-myFavoriteBook.date = 1949;
-myFavoriteBook.url = "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four";
+  myFavoriteBook.tittle = "1984";
+  myFavoriteBook.author = "George Orwell";
+  myFavoriteBook.date = 1949;
+  myFavoriteBook.url = "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four";
 
 let hobbies = [
   "Coding",
